@@ -61,16 +61,17 @@ public Class contact {
 
 ## Scenario 1
 
-**Context:**
-**Scenario:**
-**Uitspraken:**
-   * 3 IF ELSE statements **onwaar**
+1. **Context:** Je bent een Console app aan het programmeren voor een project.
+2. **Scenario:** Als je het programme opstart krijg je een menu.dit menu bevat meerdere opties
+3. **Question:** Welke manier controleer je het best welke optie de user heeft geselecteerd
+4. **Uitspraken:**
+   * 3 IF ELSE statements **waar**
    * 6 IF statements **onwaar**
-   * 1 IF 4 ELSE IF 1 ELSE **onwaar**
+   * 1 IF 4 ELSE IF 1 ELSE statements**onwaar**
    * SWITCH statements **waar**
-**Feedback:**
-**Moeilijkheidsgraag:** makkelijk
-**Foto:**
+5. **Feedback:**
+6. **Moeilijkheidsgraag:** makkelijk
+7. **Foto:**
 ![Foto van Voorbeeld](./img/ex1.JPG)
 
 ## Scenario 2
