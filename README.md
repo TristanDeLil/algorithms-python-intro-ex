@@ -72,6 +72,7 @@ public Class contact {
 5. **Feedback:**
 6. **Moeilijkheidsgraag:** makkelijk
 7. **Foto:**
+
 ![Foto van Voorbeeld](./img/ex1.JPG)
 
 ## Scenario 2
