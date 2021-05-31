@@ -61,6 +61,18 @@ public Class contact {
 
 ## Scenario 1
 
+**Context:**
+**Scenario:**
+**Uitspraken:**
+   * 3 IF ELSE statements **onwaar**
+   * 6 IF statements **onwaar**
+   * 1 IF 4 ELSE IF 1 ELSE **onwaar**
+   * SWITCH statements **waar**
+**Feedback:**
+**Moeilijkheidsgraag:** makkelijk
+**Foto:**
+![Foto van Voorbeeld](./img/voorbeeld.png)
+
 ## Scenario 2
 
 ## Scenario 3
@@ -69,4 +81,4 @@ public Class contact {
 
 Geef hier je naam op:
 
-Student: ..................
+Student: Tristan De Lil
